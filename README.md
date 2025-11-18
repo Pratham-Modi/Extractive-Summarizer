@@ -1,4 +1,4 @@
-# 🤖 Task 1: Extractive Summarizer
+# 🤖 Extractive Summarizer
 
 This project implements an **extractive summarization technique** to generate concise summaries from longer documents. The tool automatically selects the most informative sentences based on **TF-IDF scores** and combines them into a coherent summary.
 
